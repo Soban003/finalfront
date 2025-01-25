@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Register</title>
+    <link rel="stylesheet" href="./regist.css">
+    <link rel="icon" href="./electro images/cake logo main.jpg">
+    <script src="https://kit.fontawesome.com/39f4cbb534.js" crossorigin="anonymous"></script>
+    
+</head>
+<body>
+
+    <div class="container">
+        <div class="form-box">
+            <form name="Formfill" action="" onsubmit=" return validation()">
+                    <h2>Register</h2>
+                    <p id="result"></p>
+                    <div class="input-box">
+                        <i class="fa-solid fa-user"></i>
+                        <input type="text" id="username" name="Username" placeholder="Username">
+                    </div>
+                    <div class="input-box">
+                        <i class="fa-solid fa-envelope"></i>
+                        <input type="text" id="email"  name="Email" placeholder="Email">
+                    </div>
+                    <div class="input-box">
+                        <i class="fa-solid fa-lock"></i>
+                        <input type="password" id="password" name="Password" placeholder="Password">
+                    </div>
+                    <div class="input-box">
+                        <i class="fa-solid fa-key"></i>
+                        <input type="password" id="" name="CPassword" placeholder="Confirm Password">
+                    </div>
+                    <div class="button">
+                        <input type="submit" onclick="validation(),addData()" class="btn" value="Register">
+                    </div>
+            </form>
+        </div>
+        <div class="popup" id="popup">
+            <i class="fa-regular fa-circle-check"></i>
+            <h2 style="margin-top: 25px;">Thank you!</h2>
+            <p style="margin-top: 25px;">You were Registration Successfully. Thanks!</p>
+            <a href="index.html"><button onclick="CloseSlide()">OK</button></a>
+        </div> 
+    </div>
+<script src="./regist.js"></script>
+</body>
+</html>

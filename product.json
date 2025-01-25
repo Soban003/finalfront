@@ -1,0 +1,98 @@
+[
+    {
+        "id":1,
+        "name":"Eggless Cakes",
+        "price": 499,
+        "image":"./electro images/p1.jpg"
+    },
+    {
+        "id":2,
+        "name":"Midnight Cakes",
+        "price": 525,
+        "image":"./electro images/midnight cake.jpg"
+    },
+    {
+        "id":3,
+        "name":"Photo Cakes",
+        "price": 549,
+        "image":"./electro images/photo cake.webp"
+    },
+    {
+        "id":4,
+        "name":"Heartshape Cakes",
+        "price": 349,
+        "image":"./electro images/heart shape.jpg"
+    },
+    {
+        "id":5,
+        "name":"Designer Cakes",
+        "price": 495,
+        "image":"./electro images/designer cake.jpg"
+    },
+    {
+        "id":6,
+        "name":"Fondant Cakes",
+        "price": 800,
+        "image":"./electro images/fondant cake.jpg"
+    },
+    {
+        "id":7,
+        "name":"Dry Cakes",
+        "price": 699,
+        "image":"./electro images/dry cake.jpg"
+    },
+    {
+        "id":8,
+        "name":"Cup Cakes",
+        "price": 249,
+        "image":"./electro images/cup cake.jpg"
+    },
+    {
+        "id":9,
+        "name":"Pastry Cakes",
+        "price": 895,
+        "image":"./electro images/pastry cake.jpg"
+    },
+    {
+        "id":10,
+        "name":"Chocolate Cakes",
+        "price": 1659,
+        "image":"./electro images/chocolate.jpg"
+    },
+    {
+        "id":11,
+        "name":"Truffle Cakes",
+        "price": 450,
+        "image":"./electro images/truffle.jpg"
+    },
+    {
+        "id":12,
+        "name":"Blackforest Cakes",
+        "price": 299,
+        "image":"./electro images/blackforest.jpg"
+    },
+    {
+        "id":13,
+        "name":"Rasmalai Cakes",
+        "price": 550,
+        "image":"./electro images/rasmalai.jpg"
+    },
+    {
+        "id":14,
+        "name":"Butter Cakes",
+        "price": 400,
+        "image":"./electro images/butterscotch.jpg"
+    },
+    {
+        "id":15,
+        "name":"Vannila Cakes",
+        "price": 220,
+        "image":"./electro images/vannila.jpg"
+    },
+    {
+        "id":16,
+        "name":"Pineapple Cakes",
+        "price": 390,
+        "image":"./electro images/pineapple.jpg"
+    }
+]
