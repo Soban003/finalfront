@@ -1,4 +1,4 @@
-const baseApi = "http://localhost:8080/reg";
+const baseApi = "https://valiant-curiosity-production-b699.up.railway.app/reg";
 var username = document.getElementById("username");
 var email = document.getElementById("email");
 var password = document.getElementById("password");

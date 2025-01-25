@@ -1,4 +1,4 @@
-const baseApi = "http://localhost:8080/order";
+const baseApi = "https://valiant-curiosity-production-b699.up.railway.app/order";
 var tbody = document.getElementById("tbody");
 
 (function() {

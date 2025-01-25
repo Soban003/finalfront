@@ -1,4 +1,4 @@
-const baseApi = "http://localhost:8080/reg";
+const baseApi = "https://valiant-curiosity-production-b699.up.railway.app/reg";
 const offcanvas_body = document.getElementById("offcanvas_body");
 
 
